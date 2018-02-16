@@ -1110,3 +1110,9 @@ a {
             margin-right: 1.4rem
     }
     }
+
+.site-header {
+    position: absolute;
+    z-index: 2;
+    background-color: rgba(#2f5572, .9);
+}
